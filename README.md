@@ -4,9 +4,9 @@ This analysis for a hypothetical rideshare company is meant to break down the nu
 
 ## Results
 
-![summary dataframe table]("/Analysis/summary_table.png")
+![summary dataframe table]("/analysis/summary_table.png")
 
-![summary line plot]("/Analysis/PyBer_fare_summary.png")
+![summary line plot]("/analysis/PyBer_fare_summary.png")
 
 As you can see from the above images, urban cities have by far the highest number of drivers, rides, and total fares, followed by suburban cities an drural cities. However, average fares per ride and average fares per driver are highest in rural areas, followed by suburban cities, then urban ones.
 
